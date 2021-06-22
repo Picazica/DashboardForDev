@@ -1,4 +1,0 @@
-{
-    "mongoURI":"mongodb+srv://picazica:qwerty9@devconnector.d1pvz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret":"asjdsafdsoigjfosdifjsodjif"
-}
